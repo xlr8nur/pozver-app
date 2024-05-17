@@ -43,7 +43,7 @@ PozVer is designed to provide users with a platform to share their photos and in
 
    ```bash
    git clone https://github.com/xlr8nur/pozver-app.git
-   cd pozver
+   cd pozver-app
    ```
 
 2. **Install dependencies:**
@@ -77,7 +77,7 @@ PozVer is designed to provide users with a platform to share their photos and in
 
 ## Usage
 
-Users can access the project by clicking this link: [PozVer App](https://pozver-app.vercel.app/auth).
+Users can access the project by clicking this link: [PozVer App](https://pozver-app.vercel.app).
 
 1. **Sign Up / Sign In:**
 
