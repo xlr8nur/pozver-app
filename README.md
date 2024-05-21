@@ -10,7 +10,6 @@ PozVer is a social media platform where users can upload photos, like and delete
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -105,13 +104,8 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or feedback, please contact:
 
-- Name: Nur Akman
-- Email: xlr8nur@protonmail.com
+xlr8nur@protonmail.com
