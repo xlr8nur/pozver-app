@@ -2,6 +2,8 @@
 
 PozVer is a social media platform where users can upload photos, like and delete posts, make comments, and follow/unfollow accounts. The project leverages modern web technologies for a seamless user experience.
 
+![pozver](https://github.com/xlr8nur/pozver-app/assets/97341887/0e260e48-26f6-4b74-8064-3bf64d82718f)
+
 ## Table of Contents
 
 - [Overview](#overview)
